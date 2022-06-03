@@ -2,5 +2,7 @@ Archivo1
 Agrego una linea
 Agrego otra linea antes de hacer commit
 Ticket2-Urgente
+TareaA-Proy1-Cambio2
 Linea agregada en el remoto
 Nueva linea en el local
+TareaA-Proy1
